@@ -23,6 +23,7 @@
         public double Cost { get => cost; set => cost = value; }
 
         //public double Cost { get => cost; set => cost = value; }
+        //câccâcc
         public void getCost()
         {
             double c = price;
