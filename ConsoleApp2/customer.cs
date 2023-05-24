@@ -21,7 +21,8 @@
         public int Qty { get => qty; set => qty = value; }
         public double Price { get => price; set => price = value; }
         public double Cost { get => cost; set => cost = value; }
-
+        //ccc
+        //cmm
         //public double Cost { get => cost; set => cost = value; }
         //câccâcc
         //ditme
