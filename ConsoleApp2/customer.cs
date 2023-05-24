@@ -24,6 +24,7 @@
 
         //public double Cost { get => cost; set => cost = value; }
         //câccâcc
+        //ditme
         public void getCost()
         {
             double c = price;
